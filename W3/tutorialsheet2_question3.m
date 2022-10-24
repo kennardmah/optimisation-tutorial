@@ -1,6 +1,6 @@
 % import data sets used to predict quality of wine from chemical makeup
-load('/Users/kennardmah/Desktop/Optimisation/W3/red_wine_quality_data.mat');
-load('/Users/kennardmah/Desktop/Optimisation/W3/white_wine_quality_data.mat');
+load('red_wine_quality_data.mat');
+load('white_wine_quality_data.mat');
 
 % 3a - shuffle data sets
 
